@@ -7,6 +7,11 @@ features of flutter and the dart language. Most files in this repositry were cre
 the `flutter create` command, including this one...
 I changed some files, including this REAME.md, but most fun and new files are in the 
 `lib/` directory.
+
+Ik wilde weer eens wat programmeren en vond het wel een
+uitdaging om een rubik's cube simulator te maken voor Android.
+
+Met flutter en zo.
  
 and added a picture...
 
