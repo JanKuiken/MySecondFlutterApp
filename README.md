@@ -8,6 +8,10 @@ the `flutter create` command, including this one...
 I changed some files, including this REAME.md, but most fun and new files are in the 
 `lib/` directory.
  
+and added a picture...
+
+![my_rubiks_cubes](my_rubiks_cubes.jpg)
+
 
 
 ## Getting Started
