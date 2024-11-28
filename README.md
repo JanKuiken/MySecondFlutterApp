@@ -1,10 +1,12 @@
 # Rubik's Cube
 
 Ik wilde weer eens wat programmeren en vond het wel een
-uitdaging om een rubik's cube simulator te maken voor Android.
-
+uitdaging om een virtuele rubik's cube te maken voor Android.
 Met flutter en zo.
  
+Ter insperatie mijn oude afgeragde cube en oude boekjes opgezocht en ook
+maar een nieuwe aangeschat, gewoon om dat het kan, zie plaatje.
+
 ![my_rubiks_cubes](my_rubiks_cubes.jpg)
 
 In de GitHub repositry staan alleen de `fun` files uit de `lib/` directory.
