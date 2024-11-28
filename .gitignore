@@ -30,6 +30,12 @@ macos/
 test/
 web/
 windows/
+# JJK: ik vind dat de standaard dir waar ik (bijna) niets mee doe
+#      ook niet in GitHub hoeven
+.metadata
+analysis_options.yaml
+pubspec.lock
+pubspec.yaml
 
 
 # Flutter/Dart/Pub related
